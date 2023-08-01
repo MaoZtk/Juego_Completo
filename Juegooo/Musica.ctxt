@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Musica
+comment1.params=
+comment1.target=void\ act()
+comment2.params=nombreArchivo
+comment2.target=Musica(java.lang.String)
+comment3.params=
+comment3.target=void\ reproducir()
+comment4.params=
+comment4.target=void\ detener()
+comment5.params=
+comment5.target=void\ pausar()
+comment6.params=
+comment6.target=void\ continuar()
+comment7.params=volumen
+comment7.target=void\ ajustarVolumen(int)
+comment8.params=
+comment8.target=boolean\ estaReproduciendo()
+numComments=9
